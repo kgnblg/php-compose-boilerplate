@@ -1,0 +1,32 @@
+{
+    "telemetry.machineId": "b1374902453d3602eec74dc60d17f87468305d17297252e3b1aab7aa3c077f7b",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/kagan/Projects",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/kagan/Projects/docker-laravel"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/kagan/Projects/docker-laravel",
+                "external": "file:///home/kagan/Projects/docker-laravel",
+                "path": "/home/kagan/Projects/docker-laravel",
+                "scheme": "file"
+            },
+            "backupPath": "/home/kagan/Projects/docker-laravel/~/.vscode-root/Backups/2906ca86a5d763a27b71c6f9e7fc6224",
+            "uiState": {
+                "mode": 1,
+                "x": 204,
+                "y": 147,
+                "width": 1024,
+                "height": 768
+            }
+        }
+    }
+}
